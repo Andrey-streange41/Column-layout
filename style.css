@@ -1,0 +1,27 @@
+*
+{
+    box-sizing: border-box;
+}
+
+
+.row
+{
+    background-color: rgb(79, 79, 129);
+    display: flex;
+   justify-content: center;
+}
+
+
+.flex-container_lvl1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.flex-item-lvl1
+{
+    margin-left: 15px;
+    color: white;
+}
