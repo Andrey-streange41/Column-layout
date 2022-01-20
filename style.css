@@ -3,13 +3,19 @@
     box-sizing: border-box;
 }
 
+.grid_wrapper
+{
+    background-color: rgb(79, 79, 129);
+    text-align: center;
+}
 
 .row
 {
-    background-color: rgb(79, 79, 129);
+    
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 5% 15%;
 }
 
 
@@ -17,11 +23,12 @@
 {
     display: flex;
     align-items: center;
-   justify-content: center;
+    justify-content: center;
 }
 
 .flex-item-lvl1
 {
-    padding-left:15px;
+    padding-left:20%;
+    
     color: white;
 }
