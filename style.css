@@ -8,20 +8,20 @@
 {
     background-color: rgb(79, 79, 129);
     display: flex;
-   justify-content: center;
+    justify-content: center;
+    align-items: center;
 }
 
 
 .flex-container_lvl1
 {
     display: flex;
-    justify-content: center;
     align-items: center;
-   
+   justify-content: center;
 }
 
 .flex-item-lvl1
 {
-    margin-left: 15px;
+    padding-left:15px;
     color: white;
 }
